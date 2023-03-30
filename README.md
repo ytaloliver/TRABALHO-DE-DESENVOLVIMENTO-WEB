@@ -1,5 +1,5 @@
 # TRABALHO-DE-DESENVOLVIMENTO-WEB
-2 ano informática
+2° ano de informática
 
 Integrantes:
 
