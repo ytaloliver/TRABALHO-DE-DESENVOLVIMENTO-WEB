@@ -3,6 +3,6 @@
 
 Integrantes:
 
-Maria Clara Batista Maciel 33
+Francisco Ytalo Oliveira Rodrigues, 20
 
-Francisco Ytalo Oliveira Rodrigues 20
+Maria Clara Batista Maciel, 33
